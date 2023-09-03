@@ -1,3 +1,23 @@
+.BigDiv{
+text-align: center;
+background: black;
+}
+
+
+.BigDiv div{
+display: inline-block;
+font-size: 60px;
+line-height: normal;
+background: #101010;
+color: white;
+padding: 10px;
+margin: 3px;
+vertical-align: middle;
+}
+
+.BigDiv .icon {
+vertical-align: middle;
+}
 
 /* 
 
